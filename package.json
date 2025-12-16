@@ -1,0 +1,22 @@
+{
+  "name": "microtar.c",
+  "version": "0.1.0",
+  "description": "A lightweight tar library written in ANSI C; rxi (2016).",
+  "keywords": [
+    "c",
+    "library",
+    "tar",
+    "archive",
+    "microtar"
+  ],
+  "homepage": "https://github.com/nodef/microtar.c#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/microtar.c/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/microtar.c.git"
+  },
+  "license": "MIT",
+  "main": "microtar.h"
+}
